@@ -1,0 +1,5 @@
+font/
+indice_operativo/
+script/ennesima_richiesta/*
+!script/ennesima_richiesta/ennesima_richiesta.py
+!script/ennesima_richiesta/eventiSLP_overThreshold_study_period_Daniele.xlsx
