@@ -1,4 +1,5 @@
 font/
+dati/
 indice_operativo/
 script/ennesima_richiesta/*
 !script/ennesima_richiesta/ennesima_richiesta.py
